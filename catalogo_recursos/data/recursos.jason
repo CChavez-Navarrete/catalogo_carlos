@@ -13,4 +13,11 @@
     "nivel": "básico",
     "tema": "programación"
   }
+  {
+    "tipo": "video",
+    "titulo": "Introducción a Git y GitHub",
+    "autor": "Universidad de León",
+    "nivel": "básico",
+    "tema": "control de versiones"
+  }
 ]
