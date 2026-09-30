@@ -1,0 +1,16 @@
+[
+  {
+    "tipo": "libro",
+    "titulo": "Estructuras de Datos en Python",
+    "autor": "carlos chavez",
+    "nivel": "intermedio",
+    "tema": "programación"
+  },
+  {
+    "tipo": "sitio web",
+    "titulo": "Python.org",
+    "autor": "Python Software Foundation",
+    "nivel": "básico",
+    "tema": "programación"
+  }
+]
