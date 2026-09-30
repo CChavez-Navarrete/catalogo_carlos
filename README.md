@@ -7,3 +7,5 @@ Este proyecto representa la estructura inicial de un sistema para registrar y co
 Digitalizar y organizar recursos académicos en un catálogo estructurado que pueda crecer en futuras versiones.
 
 ## Estructura general
+
+## PROXIMAS MEJORAS
