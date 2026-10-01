@@ -4,3 +4,6 @@
 - Creación de la estructura inicial del proyecto.
 - Archivos principales añadidos: README.md, requirements.txt, .gitignore, CHANGELOG.md.
 - Carpetas creadas: app/, data/, docs/, tests/.
+
+## v1.1.0 - 01/10/2026
+- Se incorporó documentación adicional.
