@@ -7,3 +7,6 @@
 
 ## v1.1.0 - 01/10/2026
 - Se incorporó documentación adicional.
+
+Ian-
+- Se agregaron fuentes recomendadas y dos nuevos criterios de clasificación al proyecto.
